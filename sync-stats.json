@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "wonCount": 69,
   "closedCount": 154,
   "openCount": 54,
@@ -11,7 +11,7 @@
   "pipelineOpps": 54,
   "tenantsTotal": 46,
   "tenantsCompleted": 16,
-  "tenantsInProgress": 13,
+  "tenantsInProgress": 14,
   "tenantsNotStarted": 16,
-  "htmlSizeBytes": 1035842
+  "htmlSizeBytes": 1030062
 }
