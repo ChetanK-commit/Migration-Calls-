@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-09",
-  "wonCount": 72,
-  "closedCount": 163,
-  "openCount": 60,
-  "totalOpps": 223,
+  "date": "2026-10-15",
+  "wonCount": 74,
+  "closedCount": 166,
+  "openCount": 59,
+  "totalOpps": 225,
   "wonAcvUSD": 2182073.57,
   "wonRecurringAcvUSD": 190358.11,
   "wonServicesAcvUSD": 1991715.47,
   "pipelineItems": 109,
-  "pipelineOpps": 60,
+  "pipelineOpps": 59,
   "tenantsTotal": 46,
   "tenantsCompleted": 16,
   "tenantsInProgress": 14,
   "tenantsNotStarted": 16,
-  "htmlSizeBytes": 1060258
+  "htmlSizeBytes": 1065602
 }
